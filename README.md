@@ -155,7 +155,7 @@ We may update this Privacy Policy from time to time. We will change the "Last up
 
 If you have questions or requests about this Policy or your data, contact us:
 
-- **Company:** [COMPANY LEGAL NAME]
-- **Address:** [REGISTERED ADDRESS], Egypt
-- **Email:** [PRIVACY EMAIL]
-- **Phone:** [PHONE NUMBER]
+- **Company:** [JIWAR ADVANCED INDUSTRIES COMPANY]
+- **Address:** [الجيزة الشيخ زايد طريق الريفيرا الصحراوي - قطعة رقم ٢ - خلف كمبوند موون لاند - الشيخ زايد - الجيزة], Egypt
+- **Email:** [juwayryia.jiwar@gmail.com]
+- **Phone:** [01070381293]
